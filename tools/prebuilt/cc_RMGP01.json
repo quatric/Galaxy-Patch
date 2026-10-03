@@ -1,0 +1,451 @@
+{
+ "feature": "cc",
+ "title": "Classic Controller",
+ "region": "RMGP01",
+ "ops": [
+  {
+   "t": "blob",
+   "addr": 2147486128,
+   "data": "9421fff07c0802a690010014483aabc948000015800100147c0803a6382100104e800020",
+   "note": "CC low-memory routine at 0x800009B0"
+  },
+  {
+   "t": "blob",
+   "addr": 2147486164,
+   "data": "9421fff07c0802a69001001480630004806300008803005f386000002c000008418200182c0000054182000848000010386000014800000838600002800100147c0803a6382100104e800020",
+   "note": "CC low-memory routine at 0x800009D4"
+  },
+  {
+   "t": "blob",
+   "addr": 2147486240,
+   "data": "8803005c2c0000027dc802a6408200148003006048000015901f000848000108800300044800010039600000",
+   "note": "CC low-memory routine at 0x80000A20"
+  },
+  {
+   "t": "blob",
+   "addr": 2147486284,
+   "data": "700c00082c0c000041820008616b0020",
+   "note": "CC low-memory routine at 0x80000A4C"
+  },
+  {
+   "t": "blob",
+   "addr": 2147486300,
+   "data": "700c08002c0c000041820008616b8000",
+   "note": "CC low-memory routine at 0x80000A5C"
+  },
+  {
+   "t": "blob",
+   "addr": 2147486316,
+   "data": "700c00102c0c000041820008616b0800",
+   "note": "CC low-memory routine at 0x80000A6C"
+  },
+  {
+   "t": "blob",
+   "addr": 2147486332,
+   "data": "700c00402c0c000041820008616b0400",
+   "note": "CC low-memory routine at 0x80000A7C"
+  },
+  {
+   "t": "blob",
+   "addr": 2147486348,
+   "data": "700c00012c0c000041820008616b0008",
+   "note": "CC low-memory routine at 0x80000A8C"
+  },
+  {
+   "t": "blob",
+   "addr": 2147486364,
+   "data": "700c00022c0c000041820008616b0001",
+   "note": "CC low-memory routine at 0x80000A9C"
+  },
+  {
+   "t": "blob",
+   "addr": 2147486380,
+   "data": "700c80002c0c000041820008616b0002",
+   "note": "CC low-memory routine at 0x80000AAC"
+  },
+  {
+   "t": "blob",
+   "addr": 2147486396,
+   "data": "700c40002c0c000041820008616b0004",
+   "note": "CC low-memory routine at 0x80000ABC"
+  },
+  {
+   "t": "blob",
+   "addr": 2147486412,
+   "data": "700c04002c0c000041820008616b0010",
+   "note": "CC low-memory routine at 0x80000ACC"
+  },
+  {
+   "t": "blob",
+   "addr": 2147486428,
+   "data": "700c10002c0c000041820008616b1000",
+   "note": "CC low-memory routine at 0x80000ADC"
+  },
+  {
+   "t": "blob",
+   "addr": 2147486444,
+   "data": "700c00042c0c000041820008616b0800",
+   "note": "CC low-memory routine at 0x80000AEC"
+  },
+  {
+   "t": "blob",
+   "addr": 2147486460,
+   "data": "700c00202c0c000041820008616b4000",
+   "note": "CC low-memory routine at 0x80000AFC"
+  },
+  {
+   "t": "blob",
+   "addr": 2147486476,
+   "data": "700c02002c0c000041820008616b0400",
+   "note": "CC low-memory routine at 0x80000B0C"
+  },
+  {
+   "t": "blob",
+   "addr": 2147486492,
+   "data": "700c00802c0c000041820008616b2000",
+   "note": "CC low-memory routine at 0x80000B1C"
+  },
+  {
+   "t": "blob",
+   "addr": 2147486508,
+   "data": "700c20002c0c000041820008616b4000",
+   "note": "CC low-memory routine at 0x80000B2C"
+  },
+  {
+   "t": "blob",
+   "addr": 2147486524,
+   "data": "7d605b784e8000207dc803a6483aa44c",
+   "note": "CC low-memory routine at 0x80000B3C"
+  },
+  {
+   "t": "blob",
+   "addr": 2147486540,
+   "data": "8803005c2c0000027dc802a64082002c800300604bfffee9901f0004800300644bfffedd901f0008800300684bfffed1901f000c4800001880030000901f000480030008901f000c480000047dc803a6483aa420",
+   "note": "CC low-memory routine at 0x80000B4C"
+  },
+  {
+   "t": "blob",
+   "addr": 2147486624,
+   "data": "881f005c2c00000241820010c07f0060c09f0064483abd10c07f006cc09f0070483abd04",
+   "note": "CC low-memory routine at 0x80000BA0"
+  },
+  {
+   "t": "blob",
+   "addr": 2147488944,
+   "data": "9421fff07c0802a69001001493e1000c483aa0c57c7f1b78807f00148863000c2c0300014182003c4800002c",
+   "note": "CC low-memory routine at 0x800014B0"
+  },
+  {
+   "t": "blob",
+   "addr": 2147488988,
+   "data": "9421fff07c0802a69001001493e1000c483aa0997c7f1b78807f0014886300182c03000141820010807f0008800300045403dffe8001001483e1000c7c0803a6382100104e800020",
+   "note": "CC low-memory routine at 0x800014DC"
+  },
+  {
+   "t": "blob",
+   "addr": 2147489060,
+   "data": "9421fff07c0802a69001001493e1000c483aa0517c7f1b784bfff4992c0300024182ffc0807f00288863000c4bffffc0",
+   "note": "CC low-memory routine at 0x80001524"
+  },
+  {
+   "t": "blob",
+   "addr": 2147489108,
+   "data": "38a1002038c000004800001138600000906100244832ed98",
+   "note": "CC low-memory routine at 0x80001554"
+  },
+  {
+   "t": "blob",
+   "addr": 2147489132,
+   "data": "7cc333787ce802a64bfff43d2c0300027ce803a67ca32b787cc4337841820008483d0c48483d1490",
+   "note": "CC low-memory routine at 0x8000156C"
+  },
+  {
+   "t": "blob",
+   "addr": 2147489172,
+   "data": "7ce802a6386000004bfff4152c030002386000007ce803a64d820020c03f001448332aec",
+   "note": "CC low-memory routine at 0x80001594"
+  },
+  {
+   "t": "blob",
+   "addr": 2147489208,
+   "data": "386000004bfff3f52c0300024182000c4837663948339df048339f1c",
+   "note": "CC low-memory routine at 0x800015B8"
+  },
+  {
+   "t": "blob",
+   "addr": 2147493776,
+   "data": "386000004bffe21d2c0300024182000c7fe3fb7848385c1548385be0",
+   "note": "CC low-memory routine at 0x80002790"
+  },
+  {
+   "t": "blob",
+   "addr": 2147493804,
+   "data": "9421fff07c0802a69001001493e1000c7c7f1b78887f00004bffe1ed2c03000241820020809f0034688000057c030e707c0020387c00185054030ffe48000008386000008001001483e1000c7c0803a6382100104e800020",
+   "note": "CC low-memory routine at 0x800027AC"
+  },
+  {
+   "t": "blob",
+   "addr": 2147493892,
+   "data": "9421fff07c0802a6900100147c651b784bffe19d2c03000238600001418200147ca32b78483a8d5d8063000c88630044800100147c0803a6382100104e800020",
+   "note": "CC low-memory routine at 0x80002804"
+  },
+  {
+   "t": "blob",
+   "addr": 2147493956,
+   "data": "881d00342c00000241820010889d00442c04000041820008483a9670483a96ec",
+   "note": "CC low-memory routine at 0x80002844"
+  },
+  {
+   "t": "blob",
+   "addr": 2147493988,
+   "data": "881d00342c00000240820008483a9600483a96ec",
+   "note": "CC low-memory routine at 0x80002864"
+  },
+  {
+   "t": "blob",
+   "addr": 2147494008,
+   "data": "881d00342c00000240820008483a96e42c1e000040800008483a96d8483a95dc",
+   "note": "CC low-memory routine at 0x80002878"
+  },
+  {
+   "t": "blob",
+   "addr": 2147494040,
+   "data": "880300342c0000024d8200209421fff0483a9468",
+   "note": "CC low-memory routine at 0x80002898"
+  },
+  {
+   "t": "blob",
+   "addr": 2147494060,
+   "data": "8803005f2c0000084082004c480000b57c04042ec1e300743d20800039292990c1c90000edef7024ec20782ac0490004c06900084808da05480000897c24052e380000087c24052e380000107c24052e483a95f04800006dc00300207c04052e483a95e0",
+   "note": "CC low-memory routine at 0x800028AC"
+  },
+  {
+   "t": "blob",
+   "addr": 2147494160,
+   "data": "8803005f2c0000084082004448000061c0040004c1e300783d20800039292990c1c90000edef7024ec207828c0490004c06900084808d9a148000035d0240004d024000cd0240014483a95ac48000021c0030024d0040004483a959c801d004054001838809d00044e800020801d004054001838809d00047c8402144e800020",
+   "note": "CC low-memory routine at 0x80002910"
+  },
+  {
+   "t": "blob",
+   "addr": 2147494288,
+   "data": "41a00000bf8000003f800000",
+   "note": "CC low-memory routine at 0x80002990"
+  },
+  {
+   "t": "blob",
+   "addr": 2147494300,
+   "data": "8803005f2c0000088803005e40820008380000024e800020",
+   "note": "CC low-memory routine at 0x8000299C"
+  },
+  {
+   "t": "patch",
+   "addr": 2150826744,
+   "new": "4bcd125c60000000",
+   "orig": "388100204bfffe7d",
+   "note": "In-DOL CC hook at 0x803302F8"
+  },
+  {
+   "t": "patch",
+   "addr": 2150836272,
+   "new": "38a1001480df01004bcced35",
+   "orig": "809f0100386100144809f99d",
+   "note": "In-DOL CC hook at 0x80332830"
+  },
+  {
+   "t": "patch",
+   "addr": 2150840020,
+   "new": "9001001493e1000c7c7f1b7838a3001038c000004bccde85",
+   "orig": "388000009001001493e1000c7c7f1b78386300104809eaed",
+   "note": "In-DOL CC hook at 0x803336D4"
+  },
+  {
+   "t": "patch",
+   "addr": 2150842524,
+   "new": "4bccd4f8",
+   "orig": "c0230014",
+   "note": "In-DOL CC hook at 0x8033409C"
+  },
+  {
+   "t": "patch",
+   "addr": 2150871992,
+   "new": "4bcc6200",
+   "orig": "4803c849",
+   "note": "In-DOL CC hook at 0x8033B3B8"
+  },
+  {
+   "t": "patch",
+   "addr": 2151174128,
+   "new": "4bc7d7bc",
+   "orig": "80830034",
+   "note": "In-DOL CC hook at 0x80384FF0"
+  },
+  {
+   "t": "patch",
+   "addr": 2151187332,
+   "new": "4bc7a40c",
+   "orig": "48000035",
+   "note": "In-DOL CC hook at 0x80388384"
+  },
+  {
+   "t": "patch",
+   "addr": 2151326928,
+   "new": "2c1e000240810014",
+   "orig": "2c1e00ff4182001c",
+   "note": "In-DOL CC hook at 0x803AA4D0"
+  },
+  {
+   "t": "patch",
+   "addr": 2151327060,
+   "new": "2c00000241810008",
+   "orig": "2800000140820008",
+   "note": "In-DOL CC hook at 0x803AA554"
+  },
+  {
+   "t": "patch",
+   "addr": 2151328284,
+   "new": "c01c006c60000000",
+   "orig": "c01c0068fc000050",
+   "note": "In-DOL CC hook at 0x803AAA1C"
+  },
+  {
+   "t": "patch",
+   "addr": 2151328296,
+   "new": "c01c006c",
+   "orig": "c01c0070",
+   "note": "In-DOL CC hook at 0x803AAA28"
+  },
+  {
+   "t": "patch",
+   "addr": 2151328304,
+   "new": "c01c007060000000",
+   "orig": "c01c006cfc000050",
+   "note": "In-DOL CC hook at 0x803AAA30"
+  },
+  {
+   "t": "patch",
+   "addr": 2151329720,
+   "new": "4bc55b94",
+   "orig": "901f000c",
+   "note": "In-DOL CC hook at 0x803AAFB8"
+  },
+  {
+   "t": "patch",
+   "addr": 2151333132,
+   "new": "4bc56b8c",
+   "orig": "9421fff0",
+   "note": "In-DOL CC hook at 0x803ABD0C"
+  },
+  {
+   "t": "patch",
+   "addr": 2151333428,
+   "new": "4bc56b69",
+   "orig": "8803005e",
+   "note": "In-DOL CC hook at 0x803ABE34"
+  },
+  {
+   "t": "patch",
+   "addr": 2151333484,
+   "new": "4bc569f8",
+   "orig": "480000f4",
+   "note": "In-DOL CC hook at 0x803ABE6C"
+  },
+  {
+   "t": "patch",
+   "addr": 2151333500,
+   "new": "4bc56b21",
+   "orig": "8883005e",
+   "note": "In-DOL CC hook at 0x803ABE7C"
+  },
+  {
+   "t": "patch",
+   "addr": 2151333572,
+   "new": "4bc5698060000000",
+   "orig": "2c04000041820084",
+   "note": "In-DOL CC hook at 0x803ABEC4"
+  },
+  {
+   "t": "patch",
+   "addr": 2151333592,
+   "new": "4bc569d460000000600000006000000060000000",
+   "orig": "801d0040c0030020809d0004540018387c04052e",
+   "note": "In-DOL CC hook at 0x803ABED8"
+  },
+  {
+   "t": "patch",
+   "addr": 2151333612,
+   "new": "4bc56a246000000060000000600000006000000060000000",
+   "orig": "801d0040809d000454001838c00300247c840214d0040004",
+   "note": "In-DOL CC hook at 0x803ABEEC"
+  },
+  {
+   "t": "patch",
+   "addr": 2151333732,
+   "new": "4bc56914",
+   "orig": "4080ff0c",
+   "note": "In-DOL CC hook at 0x803ABF64"
+  },
+  {
+   "t": "patch",
+   "addr": 2151336128,
+   "new": "4bc542e0",
+   "orig": "c07f0060",
+   "note": "In-DOL CC hook at 0x803AC8C0"
+  },
+  {
+   "t": "patch",
+   "addr": 2151489924,
+   "new": "4bc30680",
+   "orig": "9421fff0",
+   "note": "In-DOL CC hook at 0x803D2184"
+  },
+  {
+   "t": "patch",
+   "addr": 2151491792,
+   "new": "4bc2ec0c",
+   "orig": "9421fff0",
+   "note": "In-DOL CC hook at 0x803D28D0"
+  },
+  {
+   "t": "patch",
+   "addr": 2151491832,
+   "new": "4bc2ebb8",
+   "orig": "9421fff0",
+   "note": "In-DOL CC hook at 0x803D28F8"
+  },
+  {
+   "t": "patch",
+   "addr": 2151492188,
+   "new": "4bc2eac8",
+   "orig": "9421fff0",
+   "note": "In-DOL CC hook at 0x803D2A5C"
+  },
+  {
+   "t": "patch",
+   "addr": 2151492228,
+   "new": "9421fff07c0802a69001001493e1000c93c100084bfd8aed7c7e1b78807e00148803000c2c00000040820020807e00288803000c2c00000040820010807e000880030004541fdffe7fe3fb7883e1000c83c10008800100147c0803a6382100104e800020",
+   "orig": "9421fff07c0802a69001001493e1000c3be0000193c100087c7e1b784bfd8ae5806300148803000c2c000000408200207fc3f3784bfd8acd806300288803000c2c000000408200083be000007fe3fb7883e1000c83c10008800100147c0803a638210010",
+   "note": "In-DOL CC hook at 0x803D2A84"
+  },
+  {
+   "t": "patch",
+   "addr": 2151262792,
+   "new": "60000000",
+   "orig": "98040068",
+   "note": "In-DOL CC hook at 0x8039AA48"
+  },
+  {
+   "t": "patch",
+   "addr": 2151262988,
+   "new": "60000000",
+   "orig": "4082ffb8",
+   "note": "In-DOL CC hook at 0x8039AB0C"
+  },
+  {
+   "t": "patch",
+   "addr": 2152350508,
+   "new": "60000000",
+   "orig": "48000160",
+   "note": "In-DOL CC hook at 0x804A432C"
+  }
+ ]
+}
